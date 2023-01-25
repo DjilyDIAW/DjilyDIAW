@@ -1,16 +1,23 @@
-### Hi there 👋
+# DIAW
 
-<!--
-**DjilyDIAW/DjilyDIAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mes compétences
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes Formations
+
+
+<!DOCTYPE html>
+<html lang="fr">  
+    <head> 
+        <title>Ma première page</title>
+        <meta charset="UTF8">
+        <meta name="Description" content="Ceci est ma prmière page dans le cadre de ma formation GIT chez Human Booster">
+    </head>
+    <body>
+        <h1>DIAW</h1> 
+        <h2>Mes compétences</h2>
+        <h3>Mon troisième titre</h3>
+        <h4>Mon quatrième titre</h4>
+        <h5>Mon cinquième titre</h5>
+    </body>
+</html>
